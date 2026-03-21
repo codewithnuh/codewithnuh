@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-codewithnuh-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codewithnuh/)
 [![npm](https://img.shields.io/badge/npm-%40codewithnuh-cb3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~codewithnuh)
 [![Email](https://img.shields.io/badge/Email-nuh25792%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nuh25792@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-codewithnuh.dev-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://codewithnuh.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-codewithnuh.dev-00d4ff?style=for-the-badge&logo=vercel&logoColor=white)](https://codewithnuh.vercel.app)
 
 </div>
 
