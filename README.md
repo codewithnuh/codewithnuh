@@ -23,7 +23,7 @@
 <tr>
 <td width="50%">
 
-### 🔧 Blockend *(Activily Working on it)*
+### 🔧 Blockend *(Actively Working on it)*
 > shadcn — but for backend.
 
 Copy-paste, production-grade backend pieces you **own and understand**. Auth, rate limiting, job queues, caching — no black boxes.
@@ -68,7 +68,7 @@ quran-cli bookmark add 94:5
 </td>
 <td width="50%">
 
-### 🌐 WatchDog *(in progress)*
+### 🌐 WatchDog *(Future Plan)*
 > Web monitoring engine.
 
 Monitor any website for price drops, content changes, or selector appearances. Concurrent job runner with retry, backoff, and smart scheduling.
