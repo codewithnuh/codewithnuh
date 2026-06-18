@@ -23,7 +23,7 @@
 <tr>
 <td width="50%">
 
-### 🔧 Blockend *(in progress)*
+### 🔧 Blockend *(Activily Working on it)*
 > shadcn — but for backend.
 
 Copy-paste, production-grade backend pieces you **own and understand**. Auth, rate limiting, job queues, caching — no black boxes.
